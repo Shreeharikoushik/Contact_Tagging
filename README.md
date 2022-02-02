@@ -6,7 +6,7 @@ To Deploy Code to your Org.
 </a> -->
 
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging">
+<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
