@@ -1,18 +1,23 @@
-# Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+To Deploy Code to your Org.
+==================================== 
+<!-- <a href="https://githubsfdeploy.herokuapp.com/?owner=Shreeharikoushik&repo=Tagging">
+  <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
+</a> -->
 
-## How Do You Plan to Deploy Your Changes?
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Tagging">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+# Tagging
+The Tags component is a Salesforce Lightning Web Component (LWC) that serves a specific need for Sales and Support reps by centralizing, categorizing and highlighting important Contact information/attributes. This solution provides the flexibility and control of what can be manually added and/or removed in addition to tag record creation automation guidelines.
+Why Tags are Used: Tags are used to highlight important contact information/attributes and have it displayed in a central location. Tags don’t need to be a simple text, Tags can be designed to look great and stand out quickly upon loading a contact record, they can be categorized with background and font color and/or icon. Additionally, you gain visibility and reporting.
+Purpose/Use case: The purpose of tags is to highlight contact information/attributes by having it accessible in a centralized location, easy to stand out and see for any support staff. 
+Requirements:
+Lightning
+For Automation depending on your business rules and/complexity you may need additional packages:
+Flow Action BasePack
+Screen Component BasePack
+Collection Actions for Flow
