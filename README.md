@@ -1,11 +1,16 @@
 
-To Deploy Code to your Org.
-==================================== 
 <!-- <a href="https://githubsfdeploy.herokuapp.com/?owner=Shreeharikoushik&repo=Contact_Tagging">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
 </a> -->
+Deploy this Custom objects and metadata first.
+========================================================== 
+<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=main">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
 
-
+Deploy all the dependent classes to your Org.
+===========================================================
 <a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
