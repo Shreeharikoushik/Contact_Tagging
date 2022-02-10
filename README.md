@@ -4,7 +4,7 @@
 
 Deploy custom custom objects first.
 ==================================== 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=myFeature">
+<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=myFeature" target="_blank">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
@@ -12,7 +12,7 @@ Deploy custom custom objects first.
 
 To Deploy Code to your Org.
 ==================================== 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=main">
+<a href="https://githubsfdeploy.herokuapp.com?owner=Shreeharikoushik&repo=Contact_Tagging&ref=main" target="_blank">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
